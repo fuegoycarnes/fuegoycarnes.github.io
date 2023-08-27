@@ -104,7 +104,7 @@
                         <div class="row gy-4">
                             <div class="col-md-4">
                                 <h5 class="section-title ff-secondary fw-normal text-start text-primary">Escríbenos</h5>
-                                <p><i class="fa fa-envelope-open text-primary me-2"></i><a href=»fuegoycarnesadomicilio@gmail.com[email protected]»>fuegoycarnesadomicilio@gmail.com</a></p>
+                                <p><i class="fa fa-envelope-open text-primary me-2"></i><a href=mailto:fuegoycarnesadomicilio@gmail.com>fuegoycarnesadomicilio@gmail.com</a></p>
                             </div>
                             <div class="col-md-4">
                                 <h5 class="section-title ff-secondary fw-normal text-start text-primary">Inbox</h5>
